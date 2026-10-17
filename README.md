@@ -25,14 +25,19 @@ and an email notification was received through SNS.
 
 ## Screenshots
 
-### EC2 Instance
-![EC2 Instance](screenshots/01-ec2-instance.png)
+## Screenshots
+
+### EC2 Instance and Alarm Created
+![EC2 Instance](screenshots/01-ec2-instance-and-alarm-created.png)
 
 ### Alarm Thresholds
-![Alarm Thresholds](screenshots/03-alarm-thresholds.png)
+![Alarm Thresholds](screenshots/02-alarm-thresholds.png)
 
-### CloudWatch Metrics
-![CloudWatch Metrics](screenshots/04-cloudwatch-metrics.png)
+### CloudWatch Metrics (Normal Load)
+![Metrics Normal](screenshots/03-cloudwatch-metrics-normal.png)
+
+### CloudWatch Metrics (CPU Spike)
+![Metrics Spike](screenshots/04-cloudwatch-metrics-spike.png)
 
 ### Email Alert
 ![Email Alert](screenshots/05-email-alert.png)
