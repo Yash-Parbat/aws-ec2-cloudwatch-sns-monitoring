@@ -25,8 +25,6 @@ and an email notification was received through SNS.
 
 ## Screenshots
 
-## Screenshots
-
 ### EC2 Instance and Alarm Created
 ![EC2 Instance](screenshots/01-ec2-instance-and-alarm-created.png)
 
